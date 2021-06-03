@@ -1,5 +1,8 @@
 # is_cc
 
+![Regression coefficients plot](plots/all/regression.coefficients_ind_all.png)
+
+
 Replication materials for "Explaining Recruitment to Extremism: A Bayesian Contaminated Case Control Approach."
 
 - 00_isis_analysis_egypt.R : estimate Egypt "Worm's Eye" model
