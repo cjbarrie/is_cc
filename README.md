@@ -14,4 +14,4 @@ Replication materials for "Explaining Recruitment to Extremism: A Bayesian Conta
 
 Note: need to run scripts in order. Scripts 01--02 produce files named "full_fit_<>.RData," which contain the estimation results for each of the Egypt, Tunisia, and cross-national models. Files "cleaned.<>.RData" contain shortened versions of the combined Arab Barometer and recruits data. Raw individual-level data, including e.g. home address and other recruitment characteristics, not included in these replication materials to preserve anonymity. 
 
-Full manuscript can be found in "paper.pdf."
+Full manuscript can be found in "paper.pdf" in this repo or on arxiv.org at [https://arxiv.org/abs/2106.01814](https://arxiv.org/abs/2106.01814).
